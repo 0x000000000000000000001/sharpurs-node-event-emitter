@@ -10,3 +10,4 @@ output.bak/
 /.psa*
 /.spago
 /.vscode
+.DS_Store
